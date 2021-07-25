@@ -1,0 +1,27 @@
+/* @import url('https://fonts.googleapis.com/css2?family=Shadows+Into+Light&display=swap'); */
+
+body {
+    /* font-family:'Bodoni Moda' ;
+    font-family: 'Julius Sans One', sans-serif; */
+    font-family: 'Mate', serif;
+    color: white; 
+}
+
+.mate {
+    font-family: 'Mate', serif;
+}
+
+.julian {
+    font-family: 'Roboto', sans-serif;
+}
+
+p {
+    font-family: 'BenchNine', sans-serif;
+    /* font-family: 'Dosis', sans-serif; */
+    /* font-family: 'Raleway', sans-serif; */
+    /* font-family: 'Montserrat', sans-serif; */
+}
+
+/* button {
+    font-family: 'Dosis', sans-serif; 
+} */
