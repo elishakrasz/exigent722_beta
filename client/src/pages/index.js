@@ -83,8 +83,8 @@ const Index = () => (
         </div>
         <div className="w-1/2">
           {/* <HeroImage /> */}
-          <ContactFormik />
-          {/* <ContactFormNodeMailer /> */}
+          {/* <ContactFormik /> */}
+          <ContactFormNodeMailer />
           <div>
           
             {/* <img src={BuildingImage} alt="building" /> */}
